@@ -4,4 +4,3 @@ dist
 docs/.vuepress/dist
 build/related
 *.tgz
-package-lock.json
